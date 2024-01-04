@@ -8,3 +8,7 @@ GT ECE6258 Final Project
   Denoised is the Denoised Methods file.
   
   Preprocess is the file to preprocess datasets, add noised, etc.
+
+  Result is the file to save results csv documents.
+
+  Dataset is the file to save the 5 datasests.
